@@ -1,5 +1,5 @@
 ---
-title: Enabling CSM Enterprise on Hosts
+title: Enabling Cloud Security Management on Hosts
 kind: documentation
 code_lang: hosts
 type: multi-code-lang

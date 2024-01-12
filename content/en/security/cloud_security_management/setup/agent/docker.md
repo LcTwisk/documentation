@@ -1,5 +1,5 @@
 ---
-title: Enabling CSM Enterprise on Docker
+title: Enabling Cloud Security Management on Docker
 kind: documentation
 code_lang: docker
 type: multi-code-lang

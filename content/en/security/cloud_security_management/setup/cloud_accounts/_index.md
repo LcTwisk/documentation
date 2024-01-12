@@ -1,8 +1,14 @@
 ---
-title: Enabling CSM Enterprise for Cloud Accounts
+title: Enabling Cloud Security Management for Cloud Accounts
 kind: documentation
 type: multi-code-lang
 ---
+
+## CSM Enterprise
+
+## CSM Pro
+
+## CSM Workload Security
 
 ## Enable resource scanning
 
